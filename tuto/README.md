@@ -1,1 +1,1 @@
-
+data.csv est un jeu de données represant le cours du bitcoin sur 1000 minutes avec une mesure du prix par minute. Celui ci se presente sous forme d'un tableau à 2 colonnes et 1000 lignes, la première colonne représente le temps et la deuxième le prix.
