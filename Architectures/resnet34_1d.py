@@ -67,7 +67,7 @@ class ReductionBlock(nn.Module):
     
     Composant pour la reduction de la longueur du signal et augmentation du nombre de features
     
-    (divise par 2 la longueur du singal et multiplie par 2 le nombre de features)
+    (divise par 2 la longueur du signal et multiplie par 2 le nombre de features)
     
     '''
     
